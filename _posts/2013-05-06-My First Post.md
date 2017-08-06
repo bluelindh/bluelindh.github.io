@@ -1,37 +1,17 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet Consectetur Elit
-date: 2013-05-06 15:27:31
+title: My First post
+date: 2017-08-06 18:55
 ---
 
-I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+This is my first post.
 
-> Sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Abore et dolore magna aliqua. Ut enim ad minim veniam, quis.
+> My Right to Ravage Myself
+> (나는 나를 파괴할 권리가 있다)
 >
-> – Akei Yue
+> - Françoise Sagan
 
-1. List with code
-
-    ```
-    not highlighted
-    multi line
-    ```
-
-2. List with code
-    ```javascript
-    var dom = document.getElementById('boom')
-    console.log(dom);
-    ```
 
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-```html
-<dialog>
-  <header>Headsup</header>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-  <button type="button" class="js-close-dialog">Close</button>
-</dialog>
-```
+ 'My right to Ravage Myself' is a title of novel which is written by youngha kimm, also.
+ I read a this book, When I was freshman of university. After that I have thought that this novel is the best of my life ever.
