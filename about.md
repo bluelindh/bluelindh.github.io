@@ -8,4 +8,4 @@ Hello, I'm Bluelindh.
 
 
 
-Find me on [GitHub](https://github.com/bluelindh) or [instagram](https://www.instagram.com/bluelindh).
+Find me on [GitHub](https://github.com/bluelindh) or [facebook](http://www.facebook.com/jihyun.lee.96155) [instagram](https://www.instagram.com/bluelindh).

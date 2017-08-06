@@ -44,6 +44,7 @@
           {{ content }}
         </div>
         {% if is_post %}{% include signoff.html %}{% endif %}
+        {% include comments.html %}
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
